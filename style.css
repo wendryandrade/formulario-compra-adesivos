@@ -1,0 +1,60 @@
+.container{
+    background-color: #f2f2f2;
+    width:30% !important;
+    height:100% !important;
+    border-radius:10px;
+}
+
+#caixa{
+    padding: 10px;
+}
+
+h4{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    margin-left: -13px;
+    margin-right: -13px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: #2f3576;
+    color: #f2f2f2;
+}
+
+.input-tamanho{
+    width: 40px;
+}
+
+.btn{
+    background-color: #2f3576 !important;
+    border-color: #2f3576 !important;
+}
+
+textarea{
+    width: 100%;
+    resize: none !important;
+    background-color: #dee3e9;
+    border-radius: 10px;
+    padding: 8px;
+}
+
+.enviar{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    margin-top: 20px;
+    margin-bottom: -10px;
+    margin-left: -13px;
+    margin-right: -13px;
+    background: #dee3e9;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+#botao-enviar{
+    margin-left: 89%;
+}
+
+.container{
+    box-shadow: 0 0 50px #ccc;
+}
